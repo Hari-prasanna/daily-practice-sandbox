@@ -24,9 +24,13 @@ def worker(recipie):
         "suite" : recipie["address"]["suite"],
         "city" : recipie["address"]["city"],
         "zipcode" : recipie["address"]["zipcode"],
+        "lat" : recipie["address"]["geo"]["lat"],
+        "lng" : recipie["address"]["geo"]["lng"],
         "phone" : clean_phone_number,
         "website" : recipie["website"],
-        "company" : recipie["company"]  
+        "company_name" : recipie["company"]["name"],
+        "company_bs" : recipie["company"]["bs"],
+        "company_catchPhrase" : recipie["company"]["catchPhrase"]
   
             }
     return clean_string
