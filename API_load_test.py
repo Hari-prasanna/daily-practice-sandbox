@@ -5,7 +5,7 @@ import pandas as pd
 url = "https://jsonplaceholder.typicode.com/users"
 
 pd.set_option('display.max_columns', None)  # Shows all columns
-pd.set_option('display.width', 1000)
+#pd.set_option('display.width', 1000)
 
 
 def worker(recipie):
