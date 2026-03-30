@@ -1,0 +1,11 @@
+id,firstname,lastname,email,username,password,phone,city,street,house_number,zipcode,latitude,longitude
+1,John,Doe,john@gmail.com,johnd,m38rmF$,1-570-236-7033,kilcoole,new road,7682,12926-3874,-37.3159,81.1496
+2,David,Morrison,morrison@gmail.com,mor_2314,83r5^_,1-570-236-7033,kilcoole,Lovers Ln,7267,12926-3874,-37.3159,81.1496
+3,Kevin,Ryan,kevin@gmail.com,kevinryan,kev02937@,1-567-094-1345,Cullman,Frances Ct,86,29567-1452,40.3467,-30.1310
+4,Don,Romer,don@gmail.com,donero,ewedon,1-765-789-6734,San Antonio,Hunters Creek Dr,6454,98234-1734,50.3467,-20.1310
+5,Derek,Powell,derek@gmail.com,derek,jklg*_56,1-956-001-1945,san Antonio,adams St,245,80796-1234,40.3467,-40.1310
+6,David,Russell,david_r@gmail.com,david_r,3478*#54,1-678-345-9856,el paso,prospect st,124,12346-0456,20.1677,-10.6789
+7,Miriam,Snyder,miriam@gmail.com,snyder,f238&@*$,1-123-943-0563,fresno,saddle st,1342,96378-0245,10.3456,20.6419
+8,William,Hopkins,william@gmail.com,hopkins,William56$hj,1-478-001-0890,mesa,vally view ln,1342,96378-0245,50.3456,10.6419
+9,Kate,Hale,kate@gmail.com,kate_h,kfejk@*_,1-678-456-1934,miami,avondale ave,345,96378-0245,40.12456,20.5419
+10,Jimmie,Klein,jimmie@gmail.com,jimmie_k,klein*#%*,1-104-001-4567,fort wayne,oak lawn ave,526,10256-4532,30.24788,-20.545419
