@@ -16,8 +16,6 @@ google_cred_path = os.getenv("google_cred_path")
 pd.set_option('display.max_columns', None)
 pd.set_option('display.width', 1000)
 
-url = "https://fakestoreapi.com/Users"
-
 response = requests.get(url)
 
 if response.status_code == 200:
