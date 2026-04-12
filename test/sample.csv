@@ -1,0 +1,6 @@
+tx_id,amount,currency,origin,type,risk_level
+TX-901,7500,USD,usa,wire,HIGH
+TX-902,50,USD,uk,card,LOW
+TX-903,12000,EUR,cayman islands,wire,CRITICAL
+TX-905,0,USD,usa,card,LOW
+TX-906,400,USD,germany,wire,LOW
