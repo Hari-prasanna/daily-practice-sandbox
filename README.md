@@ -10,6 +10,7 @@
 | [0584-find-customer-referee](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/1148-article-views-i/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
