@@ -15,6 +15,7 @@
 | [0626-exchange-seats](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/1148-article-views-i/) | Easy |
+| [1193-monthly-transactions-i](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/1193-monthly-transactions-i/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/1757-recyclable-and-low-fat-products/) | Easy |
