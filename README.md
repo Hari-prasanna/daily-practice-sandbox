@@ -8,6 +8,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/MySQL/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/0182-duplicate-emails/) | Easy |
 | [0185-department-top-three-salaries](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/0185-department-top-three-salaries/) | Hard |
+| [0550-game-play-analysis-iv](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/0595-big-countries/) | Easy |
