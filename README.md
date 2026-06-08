@@ -13,6 +13,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/0595-big-countries/) | Easy |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0626-exchange-seats](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Hari-prasanna/daily-practice-sandbox/tree/main/PostgreSQL/1148-article-views-i/) | Easy |
